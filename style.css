@@ -88,7 +88,7 @@ button img{
 @media (max-width : 500px){
     .box{
         flex-direction: column;
-        width: 90%;
+        width: 100%;
     }
     .left img{
         content: url("./images/image-product-mobile.jpg");
